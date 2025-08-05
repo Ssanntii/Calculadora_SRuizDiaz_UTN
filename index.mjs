@@ -4,7 +4,7 @@ import { Calculadora } from "./class.mjs"
 while (true) {
     console.clear()
     console.log("====================================")
-    console.log("MENÚ PRINCIPAL")
+    console.log("\tMENÚ PRINCIPAL")
     console.log("1. Sumar")
     console.log("2. Restar")
     console.log("3. Multiplicar")
